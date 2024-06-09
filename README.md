@@ -12,6 +12,6 @@ A simple weather application built with React, Axios, and OpenWeatherMap API.
 * Display current weather data, including temperature, humidity, and wind speed
 
 ## Technologies Used
--> React
--> Axios
--> OpenWeatherMap API
+* React
+* Axios
+* OpenWeatherMap API
